@@ -1,12 +1,15 @@
-class Install
+namespace Association
 {
-    private readonly Logger _logger;
-    public Install(Logger logger)
+    internal class Install
     {
-        _logger = logger;
-    }
-    public void _Install()
-    {
-        _logger.Log("Installing");
+        private readonly Logger _logger;
+        public Install(Logger logger)
+        {
+            _logger = logger;
+        }
+        public void _Install()
+        {
+            _logger.Log("Installing");
+        }
     }
 }

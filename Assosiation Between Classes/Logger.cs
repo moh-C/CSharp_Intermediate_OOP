@@ -1,7 +1,10 @@
-class Logger
+namespace Association
 {
-    public void Log(string msg)
+    internal class Logger
     {
-        System.Console.WriteLine(msg);
+        public void Log(string msg)
+        {
+            System.Console.WriteLine(msg);
+        }
     }
 }

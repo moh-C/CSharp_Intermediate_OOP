@@ -1,9 +1,13 @@
-class Text : Presentation
+namespace Association
 {
-    public string fontName { get; set; }
-    public int fontSize { get; set; }
-    public void TextObj()
+    class Text : Presentation
     {
-        System.Console.WriteLine("Text Obj");
+        public string fontName { get; set; }
+        public int fontSize { get; set; }
+        public void TextObj()
+        {
+            System.Console.WriteLine("Text Obj");
+
+        }
     }
 }
