@@ -6,10 +6,10 @@ namespace CSharp_OOP
     {
         static void Main(string[] args)
         {
-            var text = new Text();
-            text.Copy();
-            text.Duplicate();
-            text.TextObj();
+            var db = new DbMigrator(new Logger());
+            var install = new Install(new Logger());
+            db.Migrate();
+            install._Install();
         }
     }
 }
