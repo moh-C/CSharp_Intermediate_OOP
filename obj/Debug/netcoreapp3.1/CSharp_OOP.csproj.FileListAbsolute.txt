@@ -1,0 +1,13 @@
+C:\Users\moham\Desktop\GitHub\CSharp_OOP\bin\Debug\netcoreapp3.1\CSharp_OOP.exe
+C:\Users\moham\Desktop\GitHub\CSharp_OOP\bin\Debug\netcoreapp3.1\CSharp_OOP.deps.json
+C:\Users\moham\Desktop\GitHub\CSharp_OOP\bin\Debug\netcoreapp3.1\CSharp_OOP.runtimeconfig.json
+C:\Users\moham\Desktop\GitHub\CSharp_OOP\bin\Debug\netcoreapp3.1\CSharp_OOP.runtimeconfig.dev.json
+C:\Users\moham\Desktop\GitHub\CSharp_OOP\bin\Debug\netcoreapp3.1\CSharp_OOP.dll
+C:\Users\moham\Desktop\GitHub\CSharp_OOP\bin\Debug\netcoreapp3.1\CSharp_OOP.pdb
+C:\Users\moham\Desktop\GitHub\CSharp_OOP\obj\Debug\netcoreapp3.1\CSharp_OOP.csprojAssemblyReference.cache
+C:\Users\moham\Desktop\GitHub\CSharp_OOP\obj\Debug\netcoreapp3.1\CSharp_OOP.AssemblyInfoInputs.cache
+C:\Users\moham\Desktop\GitHub\CSharp_OOP\obj\Debug\netcoreapp3.1\CSharp_OOP.AssemblyInfo.cs
+C:\Users\moham\Desktop\GitHub\CSharp_OOP\obj\Debug\netcoreapp3.1\CSharp_OOP.csproj.CoreCompileInputs.cache
+C:\Users\moham\Desktop\GitHub\CSharp_OOP\obj\Debug\netcoreapp3.1\CSharp_OOP.dll
+C:\Users\moham\Desktop\GitHub\CSharp_OOP\obj\Debug\netcoreapp3.1\CSharp_OOP.pdb
+C:\Users\moham\Desktop\GitHub\CSharp_OOP\obj\Debug\netcoreapp3.1\CSharp_OOP.genruntimeconfig.cache

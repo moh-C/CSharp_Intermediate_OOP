@@ -6,7 +6,10 @@ namespace CSharp_OOP
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            var text = new Text();
+            text.Copy();
+            text.Duplicate();
+            text.TextObj();
         }
     }
 }
