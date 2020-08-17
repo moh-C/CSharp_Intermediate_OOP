@@ -1,0 +1,2 @@
+Info: Migration started at 8/17/2020 2:58:06 PM
+Error: Migration finished at 8/17/2020 2:58:08 PM
